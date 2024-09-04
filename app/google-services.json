@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069168171910",
+    "project_id": "forsta-8bf3b",
+    "storage_bucket": "forsta-8bf3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069168171910:android:7e869a9decfa2427c12a07",
+        "android_client_info": {
+          "package_name": "com.example.forsta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVK5Sk6f3OXsltIJ0RrdSb6kCV-H57E9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
