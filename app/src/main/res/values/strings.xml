@@ -15,4 +15,5 @@
     <string name="age">Age</string>
     <string name="name">Name</string>
     <string name="forms">Forms</string>
+    <string name="home_screen">Home screen</string>
 </resources>
