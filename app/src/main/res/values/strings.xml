@@ -1,7 +1,17 @@
 <resources>
     <string name="app_name">Forsta</string>
     <string name="Login">Login</string>
-    <string name="email">email</string>
-    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
     <string name="register">Register</string>
+    <string name="click_to_log_in">Click to log in</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="Logout">logout</string>
+    <string name="license">License</string>
+    <string name="man">Man</string>
+    <string name="womman">Womman</string>
+    <string name="Other">Other</string>
+    <string name="send">Send</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
 </resources>
